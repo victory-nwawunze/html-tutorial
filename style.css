@@ -62,3 +62,31 @@ footer p{
 .main-header{
     background-color: #f7f7f7;
 }
+aside{
+    background-color: #f7f7f7;
+    border-top: 5px solid #1098ad;
+    border-bottom: 5px solid #1098ad;
+}
+/* .first-li{
+    font-weight: bold;
+} */
+/* Pseudo-class */
+li:first-child{
+    font-weight: bold;
+}
+li:last-child{
+    font-style: italic;
+}
+/* li:nth-child(2){
+    color: red;
+}
+li:nth-child(odd){
+    color: green;
+}
+li:nth-child(even){
+    color: yellow;
+} */
+
+article p:last-child{
+    color: red;
+}

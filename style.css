@@ -102,5 +102,22 @@ a:visited{
 a:hover{
     color: orangered;
     font-weight: bold;
-    text-decoration: underline dotted orangered;
+    text-decoration: underline  orangered;
+}
+a:active{
+    background-color: black;
+    font-style: italic;
+}
+/* resolving conflict */
+#copyright{
+    color: red;
+}
+.copyright{
+    color: blue;
+}
+.text{
+    color: yellow;
+}
+footer p{
+    color: green;
 }

@@ -10,6 +10,18 @@ body {
       border-top: 10px solid #1098ad;
 
 }
+.container{
+    width: 800px;
+    /* margin-left: auto;
+    margin-right: auto; */
+    margin: 0 auto;
+}
+/* nav a{
+    background-color: orangered;
+    margin: 20px;
+    padding: 20px;
+    display: block;
+} */
 .main-header {
   background-color: #f7f7f7;
   /* padding:20px;
@@ -17,7 +29,7 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
-  height: 80px;
+  /* height: 80px; */
 }
 .post-img{
     width: 100%;

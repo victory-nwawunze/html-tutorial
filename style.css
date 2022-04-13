@@ -19,6 +19,10 @@ body {
   margin-bottom: 60px;
   height: 80px;
 }
+.post-img{
+    width: 100%;
+    height: auto;
+}
 nav{
 font-size: 18px;
 }

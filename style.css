@@ -17,15 +17,23 @@ body {
   padding-right: 40px; */
   padding: 20px 40px;
   margin-bottom: 60px;
+  height: 80px;
+}
+nav{
+font-size: 18px;
 }
 .post-header{
     margin-bottom: 40px;
+}
+article{
+    margin-bottom: 60px;
 }
 aside {
   background-color: #f7f7f7;
   border-top: 5px solid #1098ad;
   border-bottom: 5px solid #1098ad;
   padding: 50px 0;
+  width: 500px;
 }
 
 h1,
@@ -45,16 +53,22 @@ h2 {
 }
 h3 {
   font-size: 30px;
+  margin-bottom: 20px;
+  margin-top: 40px;
 }
 h4 {
   font-size: 20px;
   text-transform: uppercase;
   text-align: center;
 }
+ul, ol{
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
 p {
   font-size: 22px;
   line-height: 1.5;
-  margin-bottom: 15px;
+  margin-bottom: 50px;
 }
 li {
   font-size: 20px;
@@ -140,6 +154,3 @@ footer p {
   color: green;
 }
 
-nav{
-font-size: 18px;
-}
